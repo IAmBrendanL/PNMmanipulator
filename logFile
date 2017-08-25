@@ -1,0 +1,364 @@
+Entered program from puddles.pnm
+
+TBConcat: about to update input1
+LRConcat: about to update input1
+TBConcat: about to update input1
+Mirror: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+TBConcat: about to update input1
+Mirror: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+TBConcat: about to update input1
+Mirror: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+TBConcat: about to update input1
+Mirror: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+Mirror: done updating input1
+Mirror: about to execute
+Mirror: done executing
+TBConcat: done updating input1
+TBConcat: about to update input2
+LRConcat: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to update input2
+Grayscale: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+Shrinker: about to update input1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+Grayscale: done updating input1
+Grayscale: about to execute
+Grayscale: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
