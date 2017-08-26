@@ -1,7 +1,7 @@
 # PNMmanipulator
 Manipulate PNM files in C++
 
-This project is a uses C++ to manipulate P6 PNM files utilizing a demand-driven execution pipeline. 
+This project is a uses C++ to manipulate P6 PNM files utilizing a demand-driven execution pipeline, logging, and exception handling.
 
 The following operations can be performed:
   * Rotate 
