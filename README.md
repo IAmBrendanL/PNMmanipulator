@@ -19,7 +19,7 @@ The following operations can be performed:
 Funtionality is currently defined in the PNMmanipulator.C file and the input pnm is given as a command line argument. Currently, it is assumed that the PNM file is valid.
 
 The following functionality is planned:
-  *Verify that the input image is a valid file and has standard P6 PNM structure
-  *Have Checksum only output on flag
-  *Switch input to a text file which says which order to perform manipulations and which files to load
+  * Verify that the input image is a valid file and has standard P6 PNM structure
+  * Have Checksum only output on flag
+  * Switch input to a text file which says which order to perform manipulations and which files to load
     
